@@ -1,2 +1,3 @@
-#Neovim Config
-###Plugins
+# Neovim Config
+### Plugins
+### Tree
