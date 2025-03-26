@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+	email = leointel@umich.edu
+# Please adapt and uncomment the following lines:
+#	name = Leo Intelisano
+#	email = leointel@umich.edu
+[yser]
+	email = leointel@umich.edu
