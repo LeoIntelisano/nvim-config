@@ -1,3 +1,2 @@
 require("lintel.remap")
-print("In lintel init")
-
+require("lintel.set")
